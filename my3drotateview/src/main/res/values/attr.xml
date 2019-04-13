@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="My3dRotateView">
+        <attr name="childHeight" format="dimension"/>
+        <attr name="childWidth" format="dimension"/>
+        <attr name="ovalHeight" format="dimension"/>
+        <attr name="ovalWidth" format="dimension"/>
+        <attr name="margin_ovalWidth" format="dimension"/>
+        <attr name="margin_ovalHeight" format="dimension"></attr>
+    </declare-styleable>
+</resources>
